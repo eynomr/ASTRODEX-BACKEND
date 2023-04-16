@@ -17,5 +17,5 @@ flask run
 
 ## Using it
 Current test login for the app:
-Username: admin
-Password: 1234
+- Username: admin
+- Password: 1234
