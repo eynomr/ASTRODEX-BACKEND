@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 ``` bash
-git clone https://github.com/yourusername/example-auth-api.git
+git clone https://github.com/eynomr/ASTRODEX-BACKEND.git
 ```
 2. Install the dependencies:
 ```bash
